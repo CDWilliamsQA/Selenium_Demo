@@ -1,5 +1,8 @@
 # 🧩 Selenium Demo  
 
+![Python](https://img.sheilds.io/badge/python-3.x-blue.svg)
+![Selenium](https://img.sheilds.io.badge/Selenium-Automation-brightgreen.svg)
+
 Personal repository for practising and demonstrating Selenium WebDriver automation testing with Python and Java.  
 
 ## 📁 Contents  
@@ -13,7 +16,13 @@ Personal repository for practising and demonstrating Selenium WebDriver automati
 - **Languages:** Python, Java  
 - **Frameworks:** Pytest / TestNG  
 - **Version Control:** Git / GitHub  
-- **Platform:** Windows 11  
+- **Platform:** Windows 11
+## Setup Instructions
+- Clone this repo
+- Install Dependencies
+- Configure browser drivers in '/drivers'
+- Run sample test with 'pytest' or 'unnitest'
+
 
 ## 🚀 Purpose  
 To demonstrate understanding of UI automation using Selenium, focusing on:  
