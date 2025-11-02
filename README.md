@@ -38,6 +38,3 @@ To demonstrate understanding of UI automation using Selenium, focusing on:
 - Prepare for integration with Jenkins or Azure DevOps pipelines  
 
 ---
-
-Once this one’s committed, both repos will look tidy and professional — ideal for including on CVs or job applications.  
-Would you like me to give you the short description text to put in the “Create new repository” form before you reach the README screen (so they match in tone)?
